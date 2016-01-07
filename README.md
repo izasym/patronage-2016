@@ -1,1 +1,2 @@
-# patronage-2016
+# Patronage 2016
+Autor: Iza Symonowicz
